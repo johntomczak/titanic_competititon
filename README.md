@@ -6,6 +6,3 @@
 
 - the kaggle library isn't really necessary - need that to download stuff and upload submissions
 -    otherwise, just do the work in the ipynb
-
-test
-test2
